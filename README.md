@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **web dev projects**
 
-- 👨‍💻 Other details and my resume is available at [vikram10.netlify.app](https://vikram10.netlify.app/)
+- 👨‍💻 Other details and my resume is available at **[vikram10.netlify.app](https://vikram10.netlify.app/)**
 
 - 📫 How to reach me **vikramkaza10@gmail.com**
 
