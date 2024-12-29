@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikram Kaza</h1>
-<h3 align="center">A passionate frontend developer from Velammal Engineering College</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **web dev projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 Other details and my resume is available at **[vikram10.netlify.app](https://vikram10.netlify.app/)**
 
